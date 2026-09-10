@@ -13,3 +13,5 @@ Portanto, esse código:
 5) Classifica os pesquisadores nos quadrantes de visibilidade considerando os níveis de Coberuta e Intensidade em cada uma das fontes.
 6) Gera os gráficos de dispersão e as tabelas com os níveis de visibilidade dos pesquisadores agrupados por área, em cada uma das fontes altmétricas.
 7) Classifica os pesquuisadores em 10 classes de visibilidade online propostas.
+
+Os arquivos base para rodar o código estão disponíveis em:
