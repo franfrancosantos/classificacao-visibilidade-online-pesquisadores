@@ -14,4 +14,4 @@ Portanto, esse código:
 6) Gera os gráficos de dispersão e as tabelas com os níveis de visibilidade dos pesquisadores agrupados por área, em cada uma das fontes altmétricas.
 7) Classifica os pesquuisadores em 10 classes de visibilidade online propostas.
 
-Os arquivos base para rodar o código estão disponíveis em:
+A base de dados utilizada está diponível em: https://doi.org/10.5281/zenodo.21364213
