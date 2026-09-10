@@ -7,8 +7,8 @@ O cálculo dos indicadores altmétricos considerou os 7.428.060 DOIs com atenç�
 
 Portanto, esse código:
 1) Realiza a estatística descretiva dos dados.
-2) Calcula a Cobertura altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, Patentes e leitores no Mendeley.
-3) Calcula a Intensidade altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, Patentes e leitores no Mendeley..
+2) Calcula a Cobertura altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, em Patentes e leitores no Mendeley.
+3) Calcula a Intensidade altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, em Patentes e leitores no Mendeley.
 4) Categoriza a visibilidade dos pesquisadores entre alta ou baixa de acordo com a mediana da área do pesquisador.
 5) Classifica os pesquisadores nos quadrantes de visibilidade considerando os níveis de Coberuta e Intensidade em cada uma das fontes.
 6) Gera os gráficos de dispersão e as tabelas com os níveis de visibilidade dos pesquisadores agrupados por área, em cada uma das fontes altmétricas.
