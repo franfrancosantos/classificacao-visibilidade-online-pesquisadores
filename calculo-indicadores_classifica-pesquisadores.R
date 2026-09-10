@@ -48,10 +48,6 @@ df_profile <- df_profile %>%
 df_profile <- df_profile %>%
   mutate(region = countrycode(country, origin = "iso2c", destination = "continent"))
 
-
-df_mention <-  read_delim("doi_mentions_mr_sample_FINAL.csv", delim = ",")
-colnames(df_mention) <- c("doi", "x", "bsky", "fb", "n", "b", "pod", "rd", "v", "w", "pol", "pat", "f1000", "cg", "pr", "mr")
-
 df_metrics <- read.csv ("orcid_metrics_sample_FINAL.csv")
 
 #-- separa as fontes principais
