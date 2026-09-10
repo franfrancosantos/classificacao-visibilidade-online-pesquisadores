@@ -1,4 +1,4 @@
-# classificacao-visibilidade-online-pesquisadores
+# Classificação da Visibilidade Online de pesquisadores
 
 Código utilizado para calcular os indicadores de Cobertura e Intensidade altmétrica de um conjunto de 786.968 pesquisadores (ORCIDs) extraídos da OpenAlex.
 Os indicadores são utilizados em uma classificação de visibilidade online proposta.
