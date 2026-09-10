@@ -5,7 +5,7 @@ Os indicadores são utilizados em uma classificação de visibilidade online pro
 Para tanto foram relacionados aos pesquisadores todos os DOIs rastreados na OpenAlex (totalizando 19.658.734 DOIs únicos), 
 O cálculo dos indicadores altmétricos considerou os 7.428.060 DOIs com atenção capturada pela Altmetric e 18.387.092 que tinham leitores registrados no Mendeley. 
 
-Portanto esse códgio:
+Portanto, esse código:
 1) Realiza a estatística descretiva dos dados.
 2) Calcula a Cobertura altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, Patentes e leitores no Mendeley.
 3) Calcula a Intensidade altmétrica por pesquisador, considerando as menções aos seus DOIs no X, em Notícias, Patentes e leitores no Mendeley..
